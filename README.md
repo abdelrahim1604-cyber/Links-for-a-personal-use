@@ -11,3 +11,6 @@ Shows the name, bio, and buttons that link to GitHub, Facebook, LinkedIn, and Fr
 - HTML
 - CSS (Flexbox)
 - Google Fonts (Inter)
+
+## Preview : 
+![preview](Capture.PNG)
